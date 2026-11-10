@@ -14,3 +14,9 @@
 
 **Next Steps:**
 - My next steps are to start workign on the model itself, mroe specfically the sigmoid function.
+
+## NOV10th 1pm:
+- I implemnted lgositic regression form scratch building functions such as sigmoid, log loss, graidents , and a train_model functions which loops and update weight and bias. I thin printed out the log loss results and the array.
+
+**Next Steps:**
+-My netx steps are to test the log loss and compare it to scikit for correctness
